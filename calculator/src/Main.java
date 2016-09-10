@@ -24,7 +24,7 @@ public final class Main extends JFrame implements ActionListener{
     private static JButton one = new JButton("1");
     
     public Main() throws FileNotFoundException{
-      frame = new JFrame("ACM Raffle Draw");  
+      frame = new JFrame("Ed Pogi");  
       frame.setSize(1027, 768);
       frame.setLayout(null);
       frame.setLocationRelativeTo(null);    //center
